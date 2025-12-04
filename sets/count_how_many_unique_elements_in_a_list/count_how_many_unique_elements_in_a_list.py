@@ -1,0 +1,5 @@
+
+nums = [3,3,2,1,5,1,2,5]
+
+print(len(set(nums)))
+
